@@ -1,0 +1,17 @@
+body {
+  background-color: violet;
+}
+h1 {
+  text-align: center;
+}
+#pomoClock {
+  width: 300px;
+  height: 300px;
+  padding-top: 28vh;
+  text-align: center;
+  margin: auto;
+  background-color: black;
+  color: whitesmoke;
+  font-size: xx-large;
+  border-radius: 5%;
+}
